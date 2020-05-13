@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsNotif</string>
+    <string name="le_numero">number</string>
+    <string name="le_nom">name</string>
+    <string name="le_mail">email</string>
+    <string name="ajouter">add</string>
+</resources>
